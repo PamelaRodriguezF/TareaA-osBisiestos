@@ -1,0 +1,12 @@
+C:\Users\pamel\source\repos\TareaABPamelaRodriguez\bin\Debug\TareaABPamelaRodriguez.exe.config
+C:\Users\pamel\source\repos\TareaABPamelaRodriguez\bin\Debug\TareaABPamelaRodriguez.exe
+C:\Users\pamel\source\repos\TareaABPamelaRodriguez\bin\Debug\TareaABPamelaRodriguez.pdb
+C:\Users\pamel\source\repos\TareaABPamelaRodriguez\bin\Debug\TareaABPamelaRodriguez.xml
+C:\Users\pamel\source\repos\TareaABPamelaRodriguez\obj\Debug\TareaABPamelaRodriguez.vbprojAssemblyReference.cache
+C:\Users\pamel\source\repos\TareaABPamelaRodriguez\obj\Debug\TareaABPamelaRodriguez.Formulario1.resources
+C:\Users\pamel\source\repos\TareaABPamelaRodriguez\obj\Debug\TareaABPamelaRodriguez.Resources.resources
+C:\Users\pamel\source\repos\TareaABPamelaRodriguez\obj\Debug\TareaABPamelaRodriguez.vbproj.GenerateResource.cache
+C:\Users\pamel\source\repos\TareaABPamelaRodriguez\obj\Debug\TareaABPamelaRodriguez.exe
+C:\Users\pamel\source\repos\TareaABPamelaRodriguez\obj\Debug\TareaABPamelaRodriguez.xml
+C:\Users\pamel\source\repos\TareaABPamelaRodriguez\obj\Debug\TareaABPamelaRodriguez.pdb
+C:\Users\pamel\source\repos\TareaABPamelaRodriguez\obj\Debug\TareaABPamelaRodriguez.Formulario2.resources
